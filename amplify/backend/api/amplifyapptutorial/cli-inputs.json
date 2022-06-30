@@ -10,10 +10,6 @@
       "apiKeyExpirationDate": "2023-06-30T09:01:51.937Z",
       "keyDescription": "amplifytut"
     },
-    "conflictResolution": {
-      "defaultResolutionStrategy": {
-        "type": "AUTOMERGE"
-      }
-    }
+    "conflictResolution": {}
   }
 }
